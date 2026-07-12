@@ -1,0 +1,5 @@
+{
+  "name": "VisualTrig Explorer",
+  "description": "An interactive, visual way to learn trigonometry. Manipulate the unit circle with your cursor to see real-time changes in Sine, Cosine, and Tangent values, backed by AI explanations.",
+  "requestFramePermissions": []
+}
